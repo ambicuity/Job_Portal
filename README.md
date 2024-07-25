@@ -8,21 +8,11 @@
 <p align="center">
 
 </p>
-<p align="center">
-<img src="public/three.png" alt="Logo">
-    <a href="https://noq-client.herokuapp.com/">View Demo</a>
-    ·
-    <a href="https://github.com/hrishikeshpaul/noq/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/hrishikeshpaul/noq/issues">Request Feature</a>
-    <br />
-    <br />
-</p>
+
 
 [![made with vue](https://img.shields.io/badge/building-passing-brightgreen?style=flat-square&logo=appveyor)](https://img.shields.io/badge/building-passing-brightgreen?style=flat-square&logo=appveyor)
 [![npm version](https://img.shields.io/badge/npm-6.14-orange?style=flat&logo=appveyor)](https://github.com/npm/cli)
 [![made with vue](https://img.shields.io/badge/made%20with-vue-brightgreen)](https://img.shields.io/badge/made%20with-vue-brightgreen)
-[![license](https://img.shields.io/github/license/hrishikeshpaul/portfolio-template?style=flat&logo=appveyor)](https://github.com/hrishikeshpaul/portfolio-template/blob/master/LICENSE) 
 
 
 <!-- TABLE OF CONTENTS -->
@@ -94,9 +84,7 @@ No Q, is a revolutionary tool which allows for both employers and students to sk
 ### Installation
 
 2. Clone the repo
-   ```sh
-   $ git clone hhttps://github.com/hrishikeshpaul/noq.git
-   ```
+
 3. Install NPM packages
    ```sh
    $ npm install
@@ -106,22 +94,9 @@ No Q, is a revolutionary tool which allows for both employers and students to sk
    $ cd noq
    $ npm run dev
    ```
-5. If you want to run the backend for the website, you will have to follow [this guide](https://github.com/hrishikeshpaul/noq-server).
-
-
-<!-- USAGE EXAMPLES -->
-## Documentation
-
-_For more information, please refer to the [Documentation](https://github.com/hrishikeshpaul/noq/blob/master/public/Software%20Users%20Manual%20Template.pdf)_
 
 
 
-<!-- CONTACT -->
-## The Team
-- [Hrishikesh Paul](https://github.com/hrishikeshpaul)
-- [Norton Cole](https://github.com/colen81)
-- [Rui Zhang](https://github.com/ruizhang0)
-- [Sharanya Ravichandran](https://github.com/sharanya17410)
 
 <!-- CONTRIBUTING -->
 ## Contributing
